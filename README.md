@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardofeitos4&show_icons=true&locale=en&layout=compact&theme=prussian" alt="leonardofeitos4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardofeitos4&show_icons=true&locale=en" alt="leonardofeitos4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardofeitos4&show_icons=true&locale=en&theme=prussian" alt="leonardofeitos4" /></p>
