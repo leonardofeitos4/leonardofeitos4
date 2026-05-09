@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header)
-
 # Leonardo Feitosa
 
 **Full Stack Developer | Fundador da Evolvify**
@@ -54,18 +52,6 @@ Graduando em Ciência de Dados — UFPB (2026)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardofeitos4&theme=tokyonight&hide_border=true)](https://github.com/leonardofeitos4)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardofeitos4&theme=tokyonight)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
-
-</div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardofeitos4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofeitos4&layout=compact&theme=tokyonight&hide_border=true" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardofeitos4&theme=tokyonight&hide_border=true)](https://github.com/leonardofeitos4)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardofeitos4&theme=tokyonight)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardofeitos4&theme=tokyonight)](https://github.com/leonardofeitos4)
 
 </div>
