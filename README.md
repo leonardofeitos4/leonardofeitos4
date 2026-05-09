@@ -1,10 +1,12 @@
 <div align="center">
 
-# Leonardo Feitosa πŸ'‹
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header)
 
-**Desenvolvedor Full Stack & Estudante de CiΓͺncia de Dados**
+# Leonardo Feitosa
 
-Fundador da [Evolvify](https://github.com/leonardofeitos4) β€' Graduando em CiΓͺncia de Dados pela UFPB (2026)
+**Full Stack Developer | Fundador da Evolvify**
+
+Graduando em Ciência de Dados — UFPB (2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-feitosa-barroso-9b236b224/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardofeitos4)
@@ -13,20 +15,18 @@ Fundador da [Evolvify](https://github.com/leonardofeitos4) β€' Graduando em C
 
 ---
 
-### πŸš€ Sobre mim
+## About Me:
 
-- πŸŽ" Concluindo a graduação em **Ciência de Dados** na **Universidade Federal da ParaΓ­ba** em 2026
-- πŸ'Ό Fundador da **Evolvify** β€" desenvolvendo soluçáes web completas para clientes e projetos prΓ³prios
-- πŸ'» Atuo como **Full Stack Developer**, do front ao back, passando por deploy e infraestrutura
-- πŸ"Š Experiência com **análise de dados, modelagem preditiva e automações**
+- Fundador da **Evolvify** — empresa de soluções web e sistemas sob demanda
+- Desenvolvedor **Full Stack** com foco em aplicações web completas
+- Concluindo a graduação em **Ciência de Dados** na UFPB em 2026
+- Experiência com análise de dados, modelagem preditiva e automações
 
 ---
 
-### πŸ› οΈ Tech Stack
+## Tech Stack
 
-<div align="center">
-
-**Linguagens**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,44 +34,31 @@ Fundador da [Evolvify](https://github.com/leonardofeitos4) β€' Graduando em C
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Ferramentas & Frameworks**
+**Frameworks & Libraries**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</div>
+**Databases**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### πŸ"Œ Projetos em Destaque
+**DevOps & Hosting**
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| **[Evolvify](https://github.com/leonardofeitos4)** | Plataforma da minha empresa β€" site institucional, biolink e sistemas internos | TypeScript, HTML |
-| **[previsao-tcc](https://github.com/leonardofeitos4/previsao-tcc)** | Modelagem preditiva para o TCC β€" ciΓͺncia de dados aplicada | Python, Jupyter |
-| **[fraternidadefsc](https://github.com/leonardofeitos4/fraternidadefsc)** | Projeto web para organizaçáo estudantil | JavaScript |
-| **[Comunicacoes](https://github.com/leonardofeitos4/Comunicacoes)** | Sistema de comunicaçáes | HTML |
-| **Sistema de Solicitação** | Sistema completo de solicitaçáes para gestáo interna | Full Stack |
-| **Sistema Desempenho** | Plataforma de acompanhamento de desempenho | Full Stack |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-### πŸ"Š GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardofeitos4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofeitos4&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardofeitos4&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardofeitos4&theme=tokyonight&hide_border=true)](https://github.com/leonardofeitos4)
 
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardofeitos4&theme=tokyonight)
 
----
-
-<div align="center">
-
-*β€œConstruindo soluçáes do zero ao deploy."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
 
 </div>
